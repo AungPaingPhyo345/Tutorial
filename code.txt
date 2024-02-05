@@ -1,0 +1,5 @@
+mkdir Project		//create project
+cd Project
+code . 
+
+git init 	//project htl git htae tr
