@@ -1,1 +1,9 @@
 hi this is testing page for developer 1.
+
+how to delete branch on the github and local 
+
+git branch -D branchname	// delete the branch on local
+you want to delete the branch, you need to go to the main branch.
+
+git push origin main	// run loh ma ya bu.
+git push origin --delete branchname	//delete the branch on the github server.
